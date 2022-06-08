@@ -1,3 +1,3 @@
 # Sign-language-prediction
-Develop a sign language prediction model using CNN architecture
+Develop a sign language prediction model using CNN architecture.
 This project was done by me As a mojor project in my internship, But unofrtunately it was incomplete due to lack of Mentor's Support...
